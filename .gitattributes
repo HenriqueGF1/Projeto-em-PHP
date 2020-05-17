@@ -1,3 +1,13 @@
 *.php linguist-detectable=true  
 *.sql linguist-detectable=true
-*.rb linguist-language=Php
+*.css linguist-detectable=false
+ *.css linguist-language=PHP`
+##### Language
+# PHP
+*.php text
+*.phpt text
+*.phtml text
+*.twig text
+.htaccess text
+.ht text
+*.phar binary
