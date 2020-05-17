@@ -1,0 +1,44 @@
+a,
+button,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Jost", sans-serif;
+}
+
+#menu {
+    margin-right: 500px;
+    padding: 20px;
+}
+
+
+$cor-principal: #7848f4;
+$cor-segunda: #05060f;
+$cor-terceira: #ea1744;
+
+$body-bg: #f8f9fa;
+
+$card-border-radius: 10px;
+
+$theme-colors: ("primary": $cor-principal,
+    "secondary": $cor-principal,
+    "success": $cor-segunda,
+    "warning": $cor-principal,
+    "danger": $cor-terceira,
+    "dark": $cor-segunda,
+);
+
+input {
+    border: 2px solid currentcolor;
+}
+
+input:invalid:focus {
+    background-color: $cor-terceira;
+    color: white;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
