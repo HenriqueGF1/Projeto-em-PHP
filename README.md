@@ -1,15 +1,13 @@
 # Projeto-em-PHP
 🎉✉  Sistema Para Divulgar Eventos
 
-PHP
-
-Mysql
-
-Html 
-
-Css
-
-Sass
+<ul>
+  <li>PHP</li>  
+  <li>Mysql</li>
+  <li>Html</li>
+  <li>Css</li>
+  <li>Sass</li>
+<ul>
 
 ![01](https://user-images.githubusercontent.com/51242362/82158261-0ca8f000-985d-11ea-8d89-dfdc8ef9afbc.jpg)
 ![02](https://user-images.githubusercontent.com/51242362/82158265-1599c180-985d-11ea-89ef-3575e06f35ae.jpg)
